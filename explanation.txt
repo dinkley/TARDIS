@@ -1,0 +1,10 @@
+This is code for a Unity game I worked on quite a while ago.
+It's a game I was making to practice my programming skills with C# and Unity.
+
+I've included an old .mp4 file I recorded showcasing the gameplay created from the code.
+
+It's fairly outdated, since it's missing a couple of cool gameplay features.
+
+There's also a song playing in the background because I forgot to pause it, sorry about that.
+
+I've also inluded a screenshot of the game actually running on an Xbox One under Dev Mode.
