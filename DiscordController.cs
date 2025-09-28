@@ -10,7 +10,7 @@ public class DiscordController : MonoBehaviour
 
     public void Start()
     {
-        discord = new Discord.Discord(631225300142915604, (System.UInt64)Discord.CreateFlags.Default);
+        discord = new Discord.Discord(00000000000000, (System.UInt64)Discord.CreateFlags.Default);
         if (Debug.isDebugBuild)
         {
             UpdateActivity("Idle", "Development Build: v" + Globals.Version);
